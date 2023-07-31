@@ -1,4 +1,5 @@
 import Banner from "../../Component/Banner";
+import Company from "../../Component/Company/Company";
 import Header from "../../Component/Header";
 
 const Home = () => {
@@ -6,6 +7,7 @@ const Home = () => {
         <div className="bg-light">
             <Header></Header>
             <Banner></Banner>
+            <Company></Company>
         </div>
     );
 };
