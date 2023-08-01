@@ -11,9 +11,9 @@ const Company = () => {
     return (
         <div>
 
-            <h4 className='mt-4 mb-3 text-center'>LEADING COMPANIES BUILD TEAMS ON TOPHIRE</h4>
+            <h4 className='mt-4 mb-3 px-5 text-center'>LEADING COMPANIES BUILD TEAMS ON TOPHIRE</h4>
 
-<Container className='px-5 py-2 mx-auto me-md-5'>
+    <Container className='px-5 py-2 mx-auto me-md-5'>
       <Row className=''>
       
         <Col  xs={6} sm={3} md={3}>
